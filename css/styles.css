@@ -1,0 +1,51 @@
+h1 {
+  color: green;
+  font-weight: bolder;
+  font-style: normal;
+}
+h2 {
+  color: navy green;
+  font-weight: bold;
+  font-style: italic;
+}
+p.intro {
+  color black;
+  font-family: sans-serif;
+  font-size-adjust: auto;
+}
+.myimage {
+  width: 300px
+}
+
+.author {
+  color: indigo;
+}
+p.author {
+  font-size: 15px;
+  font-style: italic;
+}
+div.intro {
+  border: 9px solid green;
+  margin: 20px
+  float: left;
+}
+div.projects {
+  border: 9px solid yellow;
+  margin: 20px
+  float: left;
+}
+div.author {
+  border: 9px solid orange;
+  margin: 20px
+  float: left;
+}
+
+.Portfolio {
+  color: red;
+  font-style: italic;
+  font-weight: bolder;
+}
+img {
+  float: left;
+  margin-right: 20px
+}

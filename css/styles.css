@@ -4,21 +4,25 @@ h1 {
   font-style: normal;
 }
 h2 {
-  color: navy green;
+  color: purple;
   font-weight: bold;
   font-style: italic;
 }
 p.intro {
   color black;
-  font-family: sans-serif;
+  font-family: italic;
   font-size-adjust: auto;
 }
 .myimage {
   width: 300px
 }
-
+p.projects {
+  color: black;
+  font-family: fantasy;
+  font-size: auto;
+}
 .author {
-  color: indigo;
+  color: red;
 }
 p.author {
   font-size: 15px;
@@ -40,12 +44,12 @@ div.author {
   float: left;
 }
 
-.Portfolio {
-  color: red;
+.portfolio {
+  color: brown;
   font-style: italic;
   font-weight: bolder;
 }
 img {
   float: left;
-  margin-right: 20px
+  margin-right: 18px
 }
